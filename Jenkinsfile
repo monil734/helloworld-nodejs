@@ -23,5 +23,6 @@ pipeline {
       steps {
          echo "TODO - build and push image"
       }
+    }
   }
 }
